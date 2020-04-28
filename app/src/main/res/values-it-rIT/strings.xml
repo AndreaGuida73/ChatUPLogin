@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatUP Login</string>
+    <string name="main_window">Schermata Principale</string>
+    <string name="register_page">Pagina di registgrazione</string>
+    <string name="login_page">Login Page</string>
+</resources>
