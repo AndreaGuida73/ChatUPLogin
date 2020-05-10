@@ -2,6 +2,14 @@
 <resources>
     <string name="app_name">ChatUP Login</string>
     <string name="main_window">Schermata Principale</string>
-    <string name="register_page">Pagina di registgrazione</string>
-    <string name="login_page">Login Page</string>
+    <string name="are_you_not_registered">Non sei registrato?</string>
+    <string name="sign_in">Registrati</string>
+    <string name="name">Nome</string>
+    <string name="register">REGISTRATI</string>
+    <string name="are_you_already_registered">Sei già registrato?</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="registration_form">Modulo di registrazione</string>
 </resources>
